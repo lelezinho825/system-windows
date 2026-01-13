@@ -1,0 +1,9 @@
+LICENCE
+README.md
+setup.py
+system-windows/__init__.py
+system-windows/c.py
+system_windows.egg-info/PKG-INFO
+system_windows.egg-info/SOURCES.txt
+system_windows.egg-info/dependency_links.txt
+system_windows.egg-info/top_level.txt
